@@ -302,7 +302,7 @@ const ProfileHeader = () => (
       <h1 className="profile-name">{profile.name}</h1>
       <p className="profile-title">{profile.title}</p>
       <div className="social-links">
-        <a href="#" className="social-link">
+        <a href="https://github.com/arun1111j" className="social-link">
           <Github />
         </a>
         <a href="#" className="social-link">
