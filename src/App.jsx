@@ -13,7 +13,7 @@ import './App.css';
 
 // Profile data - moved outside component for cleaner organization
 const profile = {
-  name: "Alex Johnson",
+  name: "Arun J",
   title: "Computer Science Engineer",
   about: "Passionate software engineer with expertise in full-stack development, machine learning, and cloud architecture. Skilled in solving complex problems and building scalable applications.",
   skills: [
